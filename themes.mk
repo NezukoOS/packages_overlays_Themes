@@ -24,30 +24,6 @@ PRODUCT_PACKAGES += \
     FontArbutusSourceOverlay \
     FontArvoLatoOverlay \
     FontGoogleSansOverlay \
-    FontRubikRubikOverlay \
-    FontAdamCGinora \
-    FontBigNoodle \
-    FontBikoHanken \
-    FontMittelschrift \
     FontPissel \
-    FontReemKufi \
     FontRoboto \
-    FontAclonicaSourceOverlay \
-    FontAmaranteSourceOverlay \
-    FontBariolSourceOverlay \
-    FontCagliostroSourceOverlay \
-    FontComfortaaSourceOverlay \
-    FontComicSansSourceOverlay \
-    FontCoolstorySourceOverlay \
-    FontLGSmartGothicSourceOverlay \
-    FontOneplusSlateSource \
-    FontRosemarySourceOverlay \
-    FontSamsungOneSourceOverlay \
-    FontSonySketchSourceOverlay \
-    FontSurferSourceOverlay
-
-# Icon Shapes
-PRODUCT_PACKAGES += \
-    IconShapeCloudyOverlay \
-    IconShapeCylindricalOverlay \
-    IconShapeStretchedOverlay
+    FontOneplusSlateSource 
